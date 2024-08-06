@@ -24,7 +24,7 @@ run the cpu image with 4 leading zero bytes (8 zeros)
 node src/cpu.mjs leading 4 0x4206a72a50231424043fff5cea705e41b6e6b09b
 
 ```
-run the cpu image with starting with 0x1234
+run the cpu image starting with 0x1234
 ```bash
 node src/cpu.mjs pattern 1234XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 0x4206a72a50231424043fff5cea705e41b6e6b09b
 ```
