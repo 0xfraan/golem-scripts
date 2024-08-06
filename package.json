@@ -1,0 +1,11 @@
+{
+  "name": "golem-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@golem-sdk/golem-js": "^3.2.0",
+    "@golem-sdk/task-executor": "^1.4.0",
+    "dotenv": "^16.4.5"
+  }
+}
